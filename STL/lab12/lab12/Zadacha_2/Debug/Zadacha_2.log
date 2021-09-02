@@ -1,6 +1,0 @@
-﻿  Time.cpp
-  Zadacha_2.cpp
-c:\users\kostya\desktop\lab\lab12\lab12\zadacha_2\zadacha_2.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-c:\users\kostya\desktop\lab\lab12\lab12\zadacha_2\zadacha_2.cpp(92): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Создание кода...
-  Zadacha_2.vcxproj -> C:\Users\Kostya\Desktop\lab\lab12\lab12\Debug\Zadacha_2.exe
