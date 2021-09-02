@@ -1,0 +1,6 @@
+﻿  Time.cpp
+  Zadacha_3.cpp
+c:\users\kostya\desktop\lab\lab13\lab13\zadacha_3\zadacha_3.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kostya\desktop\lab\lab13\lab13\zadacha_3\zadacha_3.cpp(74): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Zadacha_3.vcxproj -> C:\Users\Kostya\Desktop\lab\lab13\lab13\Debug\Zadacha_3.exe
