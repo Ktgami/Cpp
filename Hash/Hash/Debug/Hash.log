@@ -1,0 +1,4 @@
+﻿  Hash.cpp
+c:\users\kostya\desktop\hash\hash\hash.cpp(262): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostya\desktop\hash\hash\hash.cpp(264): warning C4018: '<': signed/unsigned mismatch
+  Hash.vcxproj -> C:\Users\Kostya\Desktop\Hash\Debug\Hash.exe
