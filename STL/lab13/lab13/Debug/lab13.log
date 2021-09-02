@@ -1,0 +1,6 @@
+﻿  lab13.cpp
+c:\users\kostya\desktop\lab\lab13\lab13\lab13\lab13.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\kostya\desktop\lab\lab13\lab13\lab13\lab13.cpp(60): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Time.cpp
+  Generating Code...
+  lab13.vcxproj -> C:\Users\Kostya\Desktop\lab\lab13\lab13\Debug\lab13.exe
