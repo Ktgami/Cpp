@@ -1,8 +1,0 @@
-﻿  lab11_main.cpp
-c:\users\kostya\desktop\lab\lab11\lab11\lab11\lab11_main.cpp(26): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\kostya\desktop\lab\lab11\lab11\lab11\lab11_main.cpp(37): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\kostya\desktop\lab\lab11\lab11\lab11\lab11_main.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\kostya\desktop\lab\lab11\lab11\lab11\lab11_main.cpp(58): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\kostya\desktop\lab\lab11\lab11\lab11\lab11_main.cpp(77): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\kostya\desktop\lab\lab11\lab11\lab11\lab11_main.cpp(83): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  lab11.vcxproj -> C:\Users\Kostya\Desktop\lab\lab11\lab11\Debug\lab11.exe

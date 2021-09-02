@@ -1,4 +1,0 @@
-﻿  Zadacha_2.cpp
-c:\users\kostya\desktop\lab\lab13\lab13\zadacha_2\zadacha_2.cpp(53): warning C4018: '<': signed/unsigned mismatch
-c:\users\kostya\desktop\lab\lab13\lab13\zadacha_2\zadacha_2.cpp(90): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Zadacha_2.vcxproj -> C:\Users\Kostya\Desktop\lab\lab13\lab13\Debug\Zadacha_2.exe
